@@ -1,0 +1,17 @@
+@import "reset.css";
+@import "variables";
+//styles of components
+@import "layouts/index";
+@import "main-pages/auth";
+@import "main-pages/banners";
+@import "main-pages/cities";
+@import "main-pages/customers";
+@import "main-pages/drivers";
+@import "main-pages/notifications";
+@import "main-pages/orders";
+@import "main-pages/payments";
+@import "main-pages/products";
+@import "main-pages/sales";
+@import "app";
+//styles of Element UI
+@import "element-variables";

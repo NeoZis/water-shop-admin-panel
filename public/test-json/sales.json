@@ -1,0 +1,39 @@
+[
+  {
+    "shopItems": [
+      {
+        "id": "7bc5f9db-37ee-4cec-bdf7-966f7ca22123",
+        "imageUri": "images/products/big0.33.png",
+        "price": 15,
+        "volume": 0.125,
+        "categoryId": "43121381-3b48-4a31-a403-5d439d2a1ebf",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+      },
+      {
+        "id": "7e3c5c90-3929-482a-82ab-f1b144132e57",
+        "imageUri": "images/products/big1.5.png",
+        "price": 10,
+        "volume": 1.5,
+        "categoryId": "07ea675b-e375-44a3-bbc5-9b4802fe9e2f",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+      },
+      {
+        "id": "820e63e0-fc21-4032-9859-0d63108c6cb6",
+        "imageUri": "images/products/big0.5.png",
+        "price": 15,
+        "volume": 0.5,
+        "categoryId": "8f279920-45fd-4c37-9f48-4032f344b349",
+        "title": "Lorem ipsum dolor sit amet.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+      }
+    ],
+    "title": "new sale",
+    "description": "new sale description",
+    "id": "220eb275-31de-4c0c-9e00-e726d056eba7",
+    "percent": 10,
+    "startDate": "2021-07-10T00:00:00",
+    "endDate": "2022-07-16T00:00:00"
+  }
+]

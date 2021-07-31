@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "status": "Paid",
+    "deliveryDate": "2021-06-07T00:00:00",
+    "createDate": "2021-05-07T12:57:33.7661198",
+    "ordersShopItems": [
+      {
+        "title": "Lorem ipsum",
+        "volume": 0.33,
+        "count": 2,
+        "price": 5
+      }
+    ],
+    "customerName": "Arnold Perskics",
+    "isSubscribed": true,
+    "cityName": "Kharkiv",
+    "districtName": "Saltovka",
+    "street": "Klachkovskaya",
+    "building": "10",
+    "apartment": "1"
+  },
+  {
+    "id": "2",
+    "status": "Created",
+    "deliveryDate": "2021-06-10T00:00:00",
+    "createDate": "2021-05-07T12:59:25.5159966",
+    "ordersShopItems": [
+      {
+        "title": "Lorem ipsum",
+        "volume": 0.5,
+        "count": 2,
+        "price": 15
+      },
+      {
+        "title": "Lorem ipsum",
+        "volume": 0.33,
+        "count": 1,
+        "price": 5
+      }
+    ],
+    "customerName": "John Palmer",
+    "isSubscribed": null,
+    "cityName": "Kharkiv",
+    "districtName": "Saltovka",
+    "street": "Klachkovskaya",
+    "building": "12",
+    "apartment": "1"
+  },
+  {
+    "id": "3",
+    "status": "Created",
+    "deliveryDate": "2021-08-02T11:26:45.7698113",
+    "createDate": "2021-07-30T11:26:45.7703682",
+    "ordersShopItems": [
+      {
+        "title": "Lorem ipsum",
+        "volume": 0.33,
+        "count": 2,
+        "price": 5
+      },
+      {
+        "title": "Lorem ipsum",
+        "volume": 1.5,
+        "count": 3,
+        "price": 20
+      },
+      {
+        "title": "Lorem ipsum",
+        "volume": 0.1,
+        "count": 1,
+        "price": 3
+      }
+    ],
+    "customerName": "Jack Nicholson",
+    "isSubscribed": true,
+    "cityName": "New York",
+    "districtName": "West Coast",
+    "street": "Bohdana Khmelnitskogo",
+    "building": "10",
+    "apartment": "123"
+  }
+]

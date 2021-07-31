@@ -1,0 +1,122 @@
+[
+  {
+    "id": "0d0a3dd4-657f-4ff5-9ab7-be81604550b9",
+    "imageUri": "images/products/big0.33.png",
+    "price": 5,
+    "volume": 0.33,
+    "categoryId": "f6b216ca-906a-4bae-ac07-dd47e9174aa8",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "15b2eccc-0f1e-4a36-b034-e2974224ed4b",
+    "imageUri": "images/products/small0.1.png",
+    "price": 1,
+    "volume": 0.1,
+    "categoryId": "43121381-3b48-4a31-a403-5d439d2a1ebf",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "2003d42a-f077-41bc-a7b1-5803c26b2793",
+    "imageUri": "images/products/big0.33.png",
+    "price": 25,
+    "volume": 0.33,
+    "categoryId": "f6b216ca-906a-4bae-ac07-dd47e9174aa8",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "308a5ae7-b119-4f41-b84c-29fe0d16dae5",
+    "imageUri": "images/products/big0.33.png",
+    "price": 12,
+    "volume": 0.2,
+    "categoryId": "43121381-3b48-4a31-a403-5d439d2a1ebf",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "7bc5f9db-37ee-4cec-bdf7-966f7ca22123",
+    "imageUri": "images/products/big0.33.png",
+    "price": 15,
+    "volume": 0.125,
+    "categoryId": "43121381-3b48-4a31-a403-5d439d2a1ebf",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "7e3c5c90-3929-482a-82ab-f1b144132e57",
+    "imageUri": "images/products/big1.5.png",
+    "price": 10,
+    "volume": 1.5,
+    "categoryId": "07ea675b-e375-44a3-bbc5-9b4802fe9e2f",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "820e63e0-fc21-4032-9859-0d63108c6cb6",
+    "imageUri": "images/products/big0.5.png",
+    "price": 15,
+    "volume": 0.5,
+    "categoryId": "8f279920-45fd-4c37-9f48-4032f344b349",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "9dbaa816-da45-4dad-a5d2-32af833b7830",
+    "imageUri": "images/products/big0.33.png",
+    "price": 8,
+    "volume": 0.33,
+    "categoryId": "f6b216ca-906a-4bae-ac07-dd47e9174aa8",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "c753b984-15d8-4ac2-972f-fc1e4491ae93",
+    "imageUri": "images/products/big0.5.png",
+    "price": 20,
+    "volume": 0.5,
+    "categoryId": "8f279920-45fd-4c37-9f48-4032f344b349",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "db610541-646c-4546-8b9a-523654fa613f",
+    "imageUri": "images/products/big0.5.png",
+    "price": 5,
+    "volume": 0.5,
+    "categoryId": "8f279920-45fd-4c37-9f48-4032f344b349",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "e811a5c1-84e8-4370-9062-9eb31bf185e1",
+    "imageUri": "images/products/big0.5.png",
+    "price": 12,
+    "volume": 0.5,
+    "categoryId": "8f279920-45fd-4c37-9f48-4032f344b349",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  },
+  {
+    "id": "f2686626-4bad-451c-88be-9cb3bc7e2f29",
+    "imageUri": "images/products/big0.33.png",
+    "price": 5,
+    "volume": 0.33,
+    "categoryId": "f6b216ca-906a-4bae-ac07-dd47e9174aa8",
+    "sale": null,
+    "title": "Lorem ipsum dolor sit amet.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae consequuntur dolorem eaque eum modi odit placeat quia. Eligendi, sed."
+  }
+]

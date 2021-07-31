@@ -1,0 +1,26 @@
+[
+  {
+    "id": "154327ce-5626-412f-a9db-2c37677df0de",
+    "postedTime": "2021-06-15T14:02:35.0514178",
+    "applicationUserId": "17f784d5-7ec4-4090-9faf-2fe0e93194ca",
+    "body": "Hello World!"
+  },
+  {
+    "id": "16c5d939-d248-4978-bfb2-2a94199eed02",
+    "postedTime": "2021-06-15T13:19:02.8168678",
+    "applicationUserId": "17f784d5-7ec4-4090-9faf-2fe0e93194ca",
+    "body": "Lorem ipsum!"
+  },
+  {
+    "id": "30820769-ea3f-42cf-a4e4-469c1984c270",
+    "postedTime": "2021-06-15T13:59:10.101397",
+    "applicationUserId": "17f784d5-7ec4-4090-9faf-2fe0e93194ca",
+    "body": "Pull&Bear"
+  },
+  {
+    "id": "958cceb1-756b-47ed-87f3-b2d706105919",
+    "postedTime": "2021-05-06T18:40:58.1692831",
+    "applicationUserId": "17f784d5-7ec4-4090-9faf-2fe0e93194ca",
+    "body": "Yes, we can!"
+  }
+]

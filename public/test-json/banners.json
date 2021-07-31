@@ -1,0 +1,22 @@
+[
+  {
+    "id": "02970416-851e-43f5-9b42-d82de7df992b",
+    "photo": "images/banners/test-picture.png",
+    "linq": "https://www.google.com.ua/"
+  },
+  {
+    "id": "e0f7739d-573d-423b-9302-922ca43520b1",
+    "photo": "images/banners/test-picture.jpg",
+    "linq": "https://www.google.com.ua/"
+  },
+  {
+    "id": "f50f1657-cc08-458b-942b-acd9e9b41afa",
+    "photo": "images/banners/test-picture.png",
+    "linq": "https://www.google.com.ua/"
+  },
+  {
+    "id": "e0f2342d-573d-423b-2342-922ca36640b1",
+    "photo": "images/banners/test-picture.jpg",
+    "linq": "https://www.google.com.ua/"
+  }
+]
